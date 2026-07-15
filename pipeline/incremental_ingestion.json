@@ -305,6 +305,9 @@
 			},
 			"cdc_col": {
 				"type": "string"
+			},
+			"From_date": {
+				"type": "string"
 			}
 		},
 		"variables": {
